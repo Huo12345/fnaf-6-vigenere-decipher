@@ -1,10 +1,5 @@
 # Game Theory brute force vigenere decipher
 
-## Terms of use
-It is forbidden to use this tool for any thing else than cracking the riddle in the video refereed in the section below. 
-Do not attempt to use this tool to break any other encrypted data. On any sign of misuse this repository will be deleted
-and the use of legal means against the abuser will be checked.
-
 ## Background
 This Project was created to help the community of the YouTube channel 
 [The Game Theorists](https://www.youtube.com/channel/UCo_IB5145EVNcf8hw1Kku7w)
@@ -21,11 +16,8 @@ MATCH   Key: "key here", Value:"name here", Gender: gender (f/m) here
 If you are a fellow theorist and want to help with the search of the needle in the hey stack, we need to find a key 
 which is in any way FNAF related. With this it should be possible to crack this riddle. The matches are in the file 
 resources/matches.txt. In theory the key could be longer than the given 5 characters, but then the decipher would match 
-any possible combinations of letters after the match 
-
-If you are a coder and want to help, there are different implementations of the vigenere cipher, so feel free to fork 
-and add missing implementations.
+any possible combinations of letters after the match.
 
 ## Credits
-[Vigenere cipher implementation - Bijay Gurung](https://stackoverflow.com/questions/40532153/trying-to-encrypt-and-decrypt-a-vigenere-cipher)
-[List of common names - Mark Kantrowitz](http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/nlp/corpora/names/0.html)
+* [Vigenere cipher implementation - Bijay Gurung](https://stackoverflow.com/questions/40532153/trying-to-encrypt-and-decrypt-a-vigenere-cipher)
+* [List of common names - Mark Kantrowitz](http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/nlp/corpora/names/0.html)
