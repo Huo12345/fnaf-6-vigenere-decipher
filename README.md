@@ -1,5 +1,10 @@
 # Game Theory brute force vigenere decipher
 
+## Terms of use
+It is forbidden to use this tool for any thing else than cracking the riddle in the video refereed in the section below. 
+Do not attempt to use this tool to break any other encrypted data. On any sign of misuse this repository will be deleted
+and the use of legal means against the abuser will be checked.
+
 ## Background
 This Project was created to help the community of the YouTube channel 
 [The Game Theorists](https://www.youtube.com/channel/UCo_IB5145EVNcf8hw1Kku7w)
